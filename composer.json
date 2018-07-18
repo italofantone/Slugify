@@ -12,6 +12,7 @@
             "email": "i@italomoralesf.com"
         }
     ],
+    "minimum-stability": "alpha", 
     "require": {},
     "autoload": {
         "psr-4": {
