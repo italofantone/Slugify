@@ -1,4 +1,4 @@
-Italomoralesf\Slugify
+Italomoralesf/Slugify
 =============
 
 > Converts a string into a slug - Package based on cocur/slugify.
