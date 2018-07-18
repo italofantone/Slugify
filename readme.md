@@ -17,7 +17,7 @@ Installation
 You can install using [Composer](https://getcomposer.org):
 
 ```shell
-$ composer require italomoralesf\slugify
+$ composer require italomoralesf/slugify
 ```
 
 Usage
